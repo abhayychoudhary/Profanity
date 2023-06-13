@@ -1,0 +1,2 @@
+# Profanity
+Regex Profanity filter
